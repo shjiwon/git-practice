@@ -1,1 +1,1 @@
-hi = "Hi! my name is ShinJiwon!"
+hi = "Hi! my name is 신지원!"
